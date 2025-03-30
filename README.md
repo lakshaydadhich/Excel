@@ -2,11 +2,35 @@
 
 I'm excited to share a snapshot of a dynamic Healthcare Dashboard I recently worked on. This dashboard is designed to provide a comprehensive overview of key healthcare metrics, enabling quick and effective decision-making. Here are some of the key features:
 
-Interactive Filters: Users can easily select specific months and years to customize the data view, ensuring the most relevant insights are displayed.
-Medical Condition Analysis: A detailed pie chart, enhanced with checkboxes, allows users to filter and view patient numbers based on their medical conditions (Abnormal, Inconclusive, and Normal). This feature provides a clear and customizable visual of overall patient health.
-Disease Distribution: Line charts illustrate the number of patients by different diseases such as Arthritis, Asthma, Cancer, Diabetes, and more, helping to identify trends and areas of concern.
-Gender Distribution: A gender distribution donut chart provides a quick look at the patient demographic split, essential for gender-focused health initiatives.
-Patient Admissions: A bar chart shows the types of patient admissions (Elective, Emergency, and Urgent), highlighting the healthcare system's demand areas.
-Blood Group Breakdown: A pie chart visualizes the distribution of patients by blood group, which can be vital for blood donation drives and related healthcare services.
-Monthly Patient Trends: This section provides an in-depth look at patient numbers by disease across different months, helping track seasonal trends or spikes in specific conditions.
-This dashboard is an excellent tool for healthcare professionals looking to make data-driven decisions quickly and efficiently.
+Project Name: Healthcare Analysis Dashboard
+Tool Used: Excel
+
+Objective:
+The primary goal of this project was to develop an interactive healthcare dashboard to analyze and visualize patient demographics, medical conditions, and billing trends. The aim was to help healthcare facilities gain insights into their patient distribution and overall performance metrics.
+
+Key Responsibilities and Contributions:
+
+Data Collection and Preprocessing:
+
+Gathered and cleaned healthcare data containing patient demographics, medical conditions, admission types, and billing information.
+Standardized the data formats to ensure consistency and accuracy.
+Dashboard Design and Development:
+
+Designed an interactive dashboard in Excel using pivot tables, charts, and slicers.
+Focused on visual clarity and ease of use to accommodate non-technical stakeholders.
+KPI Metrics Implementation:
+
+Defined key performance indicators (KPIs) such as the total number of patients, average billing amount, and average patient age.
+Calculated these metrics dynamically to enable real-time insights.
+Data Visualization:
+
+Created visualizations to represent patient distribution by gender, admission type, and medical condition.
+Used bar charts, pie charts, and line graphs to enhance data interpretation.
+Insights and Outcomes:
+
+The dashboard helped healthcare professionals make data-driven decisions related to patient care and resource management.
+Identified trends in billing amounts and patient demographics, aiding in better financial planning and patient service improvements.
+Challenges and Learnings:
+
+One of the main challenges was handling missing or inconsistent data, which I overcame by implementing data cleaning techniques and validation checks.
+I also learned how to optimize Excel functions to reduce dashboard load time and ensure smoother user interaction.
